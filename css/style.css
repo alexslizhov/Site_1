@@ -11,3 +11,7 @@ body {
     width: 300px;
     border: solid 1px;
 }
+h1 {
+    font-size: 20px;
+    color: blue;
+}
