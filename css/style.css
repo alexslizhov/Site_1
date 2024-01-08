@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(151, 201, 230) ;
+}
+.ctn, a {
+    font-size: 14px;
+    font-style: italic;
+    color: brown;
+}
+.osh, img {
+    height: 300px;
+    width: 300px;
+    border: solid 1px;
+}
